@@ -7,7 +7,7 @@ Supported Games:
 
 **__Script:__**
 
-```
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/Custom/main/main.lua"))();
 ```
 
