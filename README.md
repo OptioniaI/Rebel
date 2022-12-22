@@ -1,4 +1,4 @@
-**Rebel is a private script that is used for exploits and was created on November 20th, 2022.**
+**Rebel is a paid script that is used for exploits and was created on November 20th, 2022.**
 
 Discord: **https://discord.gg/aqaMYAsB9g**
 
@@ -8,7 +8,7 @@ Supported Games:
 **__Script:__**
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/Custom/main/main.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/Rebel/main/main.lua"))();
 ```
 
 
