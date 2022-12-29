@@ -1,6 +1,6 @@
-**Rebel is a paid script that is used for exploits and was created on November 20th, 2022.**
+**Rebel Hub is a private script that is used for exploits and was created on November 20th, 2022.**
 
-Discord: **https://discord.gg/aqaMYAsB9g**
+Discord: **https://discord.gg/3rdN6V9hQf**
 
 Supported Games:                                                                                                                                            
 •  stay alive and flex your time on others -- https://www.roblox.com/games/5278850819/stay-alive-and-flex-your-time-on-others
