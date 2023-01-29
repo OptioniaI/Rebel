@@ -1,6 +1,6 @@
-**Rebel Hub is a private script that is used for exploits and was created on November 20th, 2022.**
+**Rebel Hub is a private script that is used for exploits and was created on January 1st, 2022.**
 
-Join The Discord: [**__Invite Link__**](https://discord.gg/3rdN6V9hQf)
+Discord Community • [Invite](discord.gg/3rdN6V9hQf)
 
 **__Scripts:__**
 
@@ -10,7 +10,7 @@ Join The Discord: [**__Invite Link__**](https://discord.gg/3rdN6V9hQf)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/Rebel/main/main.lua"))();
 ```
 
-**Rebel Hub Free** -- Can load for anyone, as it is free.
+**Rebel Hub Free** -- Any user is permitted to load the script in, besides blacklisted people from whitelisted will be banned from executing.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/Rebel/main/free.lua"))();
